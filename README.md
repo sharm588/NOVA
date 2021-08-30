@@ -3,5 +3,7 @@
 </p>
 <h1 align="center">NOVA</h1>
 <p align="center">Repository for an AI robot that can identify a person as male or female using computer vision</p>
+
 # About
+
 Assembled and coded an Arduino robot to look and identify the sex of a person in a group through face detection and a convolutional neural network. The robot is programmed with C/C++ (Arduino) and Java (Processing IDE). Google's Inception v3 image classification model was used to identify a person's sex based on an image. The model was trained with the IMDB-WIKI dataset and deployed using Python and TensorFlow. The robot and neural network communicate via shell scripts. Project was fully funded by Tesla Works through the University of Minnesota, Twin Cities.
